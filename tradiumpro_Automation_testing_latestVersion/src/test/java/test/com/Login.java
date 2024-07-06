@@ -25,7 +25,7 @@ public class Login extends Driver{
 		//email field
 		driver.findElement(By.id("email")).click();
 		Thread.sleep(1000);
-		driver.findElement(By.id("email")).sendKeys("sagor11@yopmail.com");
+		driver.findElement(By.id("email")).sendKeys("ok00@yopmail.com");
 		Thread.sleep(1000);
 		
 		//password field
