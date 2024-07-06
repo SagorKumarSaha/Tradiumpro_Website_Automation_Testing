@@ -24,14 +24,14 @@ public class Two_FA_and_security_method extends Driver {
 		Thread.sleep(3000);
 		driver.findElement(By.name("login")).click();
 		Thread.sleep(1000);
-		driver.findElement(By.name("login")).sendKeys("sagor11@yopmail.com");
+		driver.findElement(By.name("login")).sendKeys("ok00@yopmail.com");
 		Thread.sleep(1000);
 		driver.findElement(By.name("login")).sendKeys(Keys.ENTER);
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 		Thread.sleep(2000);
 
 		String s0 = driver.findElement(By.cssSelector("div[class='bname']")).getText();
-		if (s0.contains("sagor11@yopmail.com")) {
+		if (s0.contains("ok00@yopmail.com")) {
 			System.out.println("Email signed in...");
 		} else {
 			System.out.println("Error in Email sign in...");
@@ -59,7 +59,7 @@ public class Two_FA_and_security_method extends Driver {
 		// email field
 		driver.findElement(By.id("email")).click();
 		Thread.sleep(1000);
-		driver.findElement(By.id("email")).sendKeys("sagor11@yopmail.com");
+		driver.findElement(By.id("email")).sendKeys("ok00@yopmail.com");
 		Thread.sleep(1000);
 
 		// password field
@@ -263,7 +263,7 @@ public class Two_FA_and_security_method extends Driver {
 		// Enter new mail
 		driver.findElement(By.id("email")).click();
 		Thread.sleep(1000);
-		driver.findElement(By.id("email")).sendKeys("sagor12@yopmail.com");
+		driver.findElement(By.id("email")).sendKeys("no00@yopmail.com");
 		Thread.sleep(2000);
 
 	}
@@ -286,14 +286,14 @@ public class Two_FA_and_security_method extends Driver {
 		Thread.sleep(1000);
 		driver.findElement(By.name("login")).sendKeys(Keys.chord(Keys.CONTROL, "a"), Keys.BACK_SPACE);
 		Thread.sleep(1500);
-		driver.findElement(By.name("login")).sendKeys("sagor12@yopmail.com");
+		driver.findElement(By.name("login")).sendKeys("no00@yopmail.com");
 		Thread.sleep(1000);
 		driver.findElement(By.name("login")).sendKeys(Keys.ENTER);
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 		Thread.sleep(2000);
 
 		String s0 = driver.findElement(By.cssSelector("div[class='bname']")).getText();
-		if (s0.contains("sagor12@yopmail.com")) {
+		if (s0.contains("no00@yopmail.com")) {
 			System.out.println("Email signed in...");
 		} else {
 			System.out.println("Error in Email sign in...");
