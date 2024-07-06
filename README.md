@@ -10,3 +10,10 @@ To run this automation testing -->
 6. You have to run this automation testing in this way ->
 
     singup.java -> login.java -> ForgotPassword.java -> Reset_password.java -> Security_settings.java -> Two_FA_and_security_method.java -> Logout.java
+
+   then it will run perfectly without any error.
+
+8. I have changed all the emails in my java files. So you can run the test for once perfectly. You do not need to change any emails.
+
+For any issue plz contact me.
+Email - sagorsaha746@gmail.com
