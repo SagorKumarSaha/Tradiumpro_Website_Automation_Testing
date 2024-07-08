@@ -1,6 +1,6 @@
-# Tradiumpro_Website_Automation_Testing
+#Tradiumpro Website Automation Testing
 
-To run this automation testing -->
+###To run this automation testing -->
 
 1. Download this zip file
 2. Import this zip file in Eclipse IDE.
