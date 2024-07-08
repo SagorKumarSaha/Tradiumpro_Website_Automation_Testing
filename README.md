@@ -27,7 +27,7 @@
 
    then it will run perfectly without any error.
 
-7. I have changed all the emails in all my Java files. So you can run the test for once perfectly. You do not need to change any emails.
+7. I have changed all the emails in all my Java files. So you can run the test for once perfectly. You do not need to change any emails. Otherwise, you have to change all email addresses if you face any errors.
 
 If you have any issues, please don't hesitate to contact me.
 Email - sagorsaha746@gmail.com
