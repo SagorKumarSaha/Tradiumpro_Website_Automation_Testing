@@ -1,6 +1,16 @@
 # Tradiumpro Website Automation Testing
 
-### To run this automation testing -->
+## Modules I have tested through Automation Testing -->
+1. Sign-up
+2. Login
+3. Logout
+4. Reset or Change the login password
+5. Forgot password
+6. Security method unavailable?
+7. Security - Enable Device verification, Enable Two-factor Authentication, Add Security Question, Create Anti-Phishing Code ### (Here I have fetched the verification code from the email and completed all verifications)
+
+
+## To run this automation testing -->
 
 1. Download this zip file
 2. Import this zip file in Eclipse IDE.
