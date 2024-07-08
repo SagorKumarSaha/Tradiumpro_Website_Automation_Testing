@@ -7,14 +7,14 @@
 4. Reset or Change the login password
 5. Forgot password
 6. Security method unavailable?
-7. Security - Enable Device verification, Enable Two-factor Authentication, Add Security Question, Create Anti-Phishing Code ### (Here I have fetched the verification code from the email and completed all verifications)
+7. Security - Enable Device verification, Enable Two-factor Authentication, Add Security Question, and Create an Anti-Phishing Code (Here I have fetched the verification codes from the email and completed all verifications)
 
 
 ## To run this automation testing -->
 
 1. Download this zip file
 2. Import this zip file in Eclipse IDE.
-3. You have to download Chromedriver for selenuim which is available on selenium website.
+3. You have to download Chromedriver for Selenium which is available on the Selenium website.
 4. In the eclipse IDE, Open Tradium_Automation_Testing_latestVersion -> src/test/java -> test.com -> Driver.java
 5. In Driver.java. System.setProperty("webdriver.chrome.driver", "C:\\Users\\USER\\Desktop\\All drivers for selenium\\chromedriver-win64\\chromedriver.exe"); change this chromedriver file location with your chromedriver location.
 
