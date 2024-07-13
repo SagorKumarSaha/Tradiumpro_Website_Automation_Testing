@@ -11,5 +11,5 @@
 
 
 
-If you have any issues, please don't hesitate to contact me.
+If you face any issues, please don't hesitate to contact me.
 Email - sagorsaha746@gmail.com
